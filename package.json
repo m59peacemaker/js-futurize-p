@@ -1,11 +1,18 @@
 {
   "name": "futurize-p",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns a function that returns a promise into a function that returns a future.",
   "keywords": [
     "future",
+    "futurize",
+    "futurify",
     "promise",
-    "convert"
+    "functional",
+    "function",
+    "convert",
+    "compatible",
+    "fantasy",
+    "land"
   ],
   "main": "index.js",
   "scripts": {
